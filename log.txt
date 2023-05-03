@@ -1,0 +1,40 @@
+rgba(255, 79, 18, 1) rgba(16, 24, 40, 1) rgba(16, 24, 40, 1) rgba(16, 24, 40, 1) 
+rgba(16, 24, 40, 1) rgba(255, 79, 18, 1) rgba(16, 24, 40, 1) rgba(16, 24, 40, 1) 
+rgba(16, 24, 40, 1) rgba(255, 79, 18, 1) rgba(16, 24, 40, 1) rgba(16, 24, 40, 1) 
+rgba(16, 24, 40, 1) rgba(16, 24, 40, 1) rgba(255, 79, 18, 1) rgba(16, 24, 40, 1) 
+https://b2c.passport.rt.ru/sso-static/agreement/agreement.html 
+tel:88001000800 
+Css_: rgba(16, 24, 40, 1) 
+FgtPwdColor: rgba(16, 24, 40, 0.5) 
+FgtPwdColor: rgba(16, 24, 40, 0.5) 
+FormErrColor: None 
+rgba(255, 79, 18, 1) rgba(16, 24, 40, 1) rgba(16, 24, 40, 1) rgba(16, 24, 40, 1) 
+rgba(16, 24, 40, 1) rgba(255, 79, 18, 1) rgba(16, 24, 40, 1) rgba(16, 24, 40, 1) 
+rgba(16, 24, 40, 1) rgba(255, 79, 18, 1) rgba(16, 24, 40, 1) rgba(16, 24, 40, 1) 
+rgba(16, 24, 40, 1) rgba(16, 24, 40, 1) rgba(255, 79, 18, 1) rgba(16, 24, 40, 1) 
+https://b2c.passport.rt.ru/sso-static/agreement/agreement.html 
+tel:88001000800 
+Css_: rgba(16, 24, 40, 1) 
+FgtPwdColor: rgba(16, 24, 40, 0.5) 
+FgtPwdColor: rgba(255, 79, 18, 1) 
+FormErrColor: rgba(255, 12, 12, 1) 
+rgba(255, 79, 18, 1) rgba(16, 24, 40, 1) rgba(16, 24, 40, 1) rgba(16, 24, 40, 1) 
+rgba(16, 24, 40, 1) rgba(255, 79, 18, 1) rgba(16, 24, 40, 1) rgba(16, 24, 40, 1) 
+rgba(16, 24, 40, 1) rgba(255, 79, 18, 1) rgba(16, 24, 40, 1) rgba(16, 24, 40, 1) 
+rgba(16, 24, 40, 1) rgba(16, 24, 40, 1) rgba(255, 79, 18, 1) rgba(16, 24, 40, 1) 
+https://b2c.passport.rt.ru/sso-static/agreement/agreement.html 
+tel:88001000800 
+Css_: rgba(16, 24, 40, 1) 
+FgtPwdColor: rgba(16, 24, 40, 0.5) 
+FgtPwdColor: rgba(16, 24, 40, 0.5) 
+FormErrColor: rgba(255, 12, 12, 1) 
+rgba(255, 79, 18, 1) rgba(16, 24, 40, 1) rgba(16, 24, 40, 1) rgba(16, 24, 40, 1) 
+rgba(16, 24, 40, 1) rgba(255, 79, 18, 1) rgba(16, 24, 40, 1) rgba(16, 24, 40, 1) 
+rgba(16, 24, 40, 1) rgba(255, 79, 18, 1) rgba(16, 24, 40, 1) rgba(16, 24, 40, 1) 
+rgba(16, 24, 40, 1) rgba(16, 24, 40, 1) rgba(255, 79, 18, 1) rgba(16, 24, 40, 1) 
+https://b2c.passport.rt.ru/sso-static/agreement/agreement.html 
+tel:88001000800 
+Css_: rgba(16, 24, 40, 1) 
+FgtPwdColor: rgba(16, 24, 40, 0.5) 
+FgtPwdColor: rgba(16, 24, 40, 0.5) 
+FormErrColor: rgba(255, 12, 12, 1) 
